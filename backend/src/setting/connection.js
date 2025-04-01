@@ -1,6 +1,6 @@
 const mysql2 = require('mysql2/promise');
 
-const host = 'localhost'
+const host = '100.91.194.104'
 const user = 'root'
 const password = ''
 const database = 'tuv_test'
